@@ -1,0 +1,4 @@
+查看主机地址
+ifconfig
+再win7上cmd测试linux是否终端联通
+ping 主机地址
